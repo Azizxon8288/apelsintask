@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/helloFragment"
+        android:icon="@drawable/ic_baseline_home_work_24"
+        android:title="Asosiy" />
+
+    <item
+        android:id="@+id/transferFragment"
+        android:icon="@drawable/ic_baseline_timeline_24"
+        android:title="O'tkazma" />
+
+    <item
+        android:id="@+id/payFragment"
+        android:icon="@drawable/ic_baseline_payment_24"
+        android:title="To'lov" />
+
+    <item
+        android:id="@+id/scannerFragment"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:title="Scaner" />
+    <item
+        android:id="@+id/menuFragment"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="Menyu" />
+
+
+</menu>
